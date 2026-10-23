@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Then run the dashboard:
 
-text
+
 streamlit run dashboard.py
 
 
